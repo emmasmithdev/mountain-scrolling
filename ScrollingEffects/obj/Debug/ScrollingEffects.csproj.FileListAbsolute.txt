@@ -4,3 +4,10 @@ C:\Users\Mark Zamoyta\dev\Pluralsight\responsive-websites-bootstrap3\responsive-
 C:\Users\Mark Zamoyta\dev\Pluralsight\responsive-websites-bootstrap3\responsive-websites-bootstrap3-m5-scrolling\demos\ScrollingEffects\ScrollingEffects\obj\Debug\ScrollingEffects.csprojResolveAssemblyReference.cache
 C:\Users\Mark Zamoyta\dev\Pluralsight\responsive-websites-bootstrap3\responsive-websites-bootstrap3-m5-scrolling\demos\ScrollingEffects\ScrollingEffects\obj\Debug\ScrollingEffects.dll
 C:\Users\Mark Zamoyta\dev\Pluralsight\responsive-websites-bootstrap3\responsive-websites-bootstrap3-m5-scrolling\demos\ScrollingEffects\ScrollingEffects\obj\Debug\ScrollingEffects.pdb
+C:\Users\EmmaSmith\Documents\Tutorials\responsive-websites-bootstrap3\5-responsive-websites-bootstrap3-m5-scrolling-exercise-files\demos\ScrollingEffects\ScrollingEffects\bin\ScrollingEffects.dll.config
+C:\Users\EmmaSmith\Documents\Tutorials\responsive-websites-bootstrap3\5-responsive-websites-bootstrap3-m5-scrolling-exercise-files\demos\ScrollingEffects\ScrollingEffects\bin\ScrollingEffects.dll
+C:\Users\EmmaSmith\Documents\Tutorials\responsive-websites-bootstrap3\5-responsive-websites-bootstrap3-m5-scrolling-exercise-files\demos\ScrollingEffects\ScrollingEffects\bin\ScrollingEffects.pdb
+C:\Users\EmmaSmith\Documents\Tutorials\responsive-websites-bootstrap3\5-responsive-websites-bootstrap3-m5-scrolling-exercise-files\demos\ScrollingEffects\ScrollingEffects\obj\Debug\ScrollingEffects.csprojAssemblyReference.cache
+C:\Users\EmmaSmith\Documents\Tutorials\responsive-websites-bootstrap3\5-responsive-websites-bootstrap3-m5-scrolling-exercise-files\demos\ScrollingEffects\ScrollingEffects\obj\Debug\ScrollingEffects.csproj.CoreCompileInputs.cache
+C:\Users\EmmaSmith\Documents\Tutorials\responsive-websites-bootstrap3\5-responsive-websites-bootstrap3-m5-scrolling-exercise-files\demos\ScrollingEffects\ScrollingEffects\obj\Debug\ScrollingEffects.dll
+C:\Users\EmmaSmith\Documents\Tutorials\responsive-websites-bootstrap3\5-responsive-websites-bootstrap3-m5-scrolling-exercise-files\demos\ScrollingEffects\ScrollingEffects\obj\Debug\ScrollingEffects.pdb
